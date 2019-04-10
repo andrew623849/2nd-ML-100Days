@@ -31,4 +31,5 @@
 ###   資料來源: [用於分類的標記光學相干斷層掃描（OCT）和胸部X射線圖像](https://data.mendeley.com/datasets/rscbjbr9sj/2)
 ### 3.該資料為非結構化資料(jpeg)
 ![](https://i.imgur.com/jZqpV51.png)
+### 4.病人胸腔狀況:正確率
 ## 作業二
