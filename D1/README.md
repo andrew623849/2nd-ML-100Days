@@ -24,4 +24,11 @@
 ## 我們可以回答什麼問題?
 ### 每個問題都應該要可以被驗證→有一個可供衡量的數學評估指標
 ## 作業一
+### 1.對醫療非常有幫助，對世界一定會有很大的貢獻
+### 2.貢獻者:[Daniel Kermany](https://www.mendeley.com/profiles/daniel-kermany2/),Kang Zhang,  Michael Goldbaum
+###   貢獻日期: 6 Jan 2018 
+###   貢獻機構: 加州大學聖地亞哥分校
+###   資料來源: [用於分類的標記光學相干斷層掃描（OCT）和胸部X射線圖像](https://data.mendeley.com/datasets/rscbjbr9sj/2)
+### 3.該資料為非結構化資料(jpeg)
+![](https://i.imgur.com/jZqpV51.png)
 ## 作業二
