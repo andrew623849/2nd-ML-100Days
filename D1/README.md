@@ -25,12 +25,16 @@
 ### 我們可以回答什麼問題?
 每個問題都應該要可以被驗證→有一個可供衡量的數學評估指標  
 ## 作業一
-### 1.對醫療非常有幫助，對世界一定會有很大的貢獻
-### 2.貢獻者:[Daniel Kermany](https://www.mendeley.com/profiles/daniel-kermany2/),Kang Zhang,  Michael Goldbaum
-###   貢獻日期: 6 Jan 2018 
-###   貢獻機構: 加州大學聖地亞哥分校
-###   資料來源: [用於分類的標記光學相干斷層掃描（OCT）和胸部X射線圖像](https://data.mendeley.com/datasets/rscbjbr9sj/2)
-### 3.該資料為非結構化資料(jpeg)
-![](https://i.imgur.com/jZqpV51.png)
-### 4.病人胸腔狀況:正確率
+Q1:你選的這組資料為何重要  
+>對醫療非常有幫助，對世界一定會有很大的貢獻  
+Q2:資料從何而來 (tips: 譬如提供者是誰、以什麼方式蒐集)  
+>貢獻者:[Daniel Kermany](https://www.mendeley.com/profiles/daniel-kermany2/),Kang Zhang,  Michael Goldbaum  
+>貢獻日期: 6 Jan 2018  
+>貢獻機構: 加州大學聖地亞哥分校  
+>資料來源: [用於分類的標記光學相干斷層掃描（OCT）和胸部X射線圖像](https://data.mendeley.com/datasets/rscbjbr9sj/2)  
+Q3:蒐集而來的資料型態為何  
+>該資料為非結構化資料(jpeg)
+>![](https://i.imgur.com/jZqpV51.png)
+Q4:這組資料想解決的問題如何評估
+>病人胸腔狀況:正確率
 ## 作業二
