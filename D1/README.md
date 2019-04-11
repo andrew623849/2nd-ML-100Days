@@ -1,5 +1,5 @@
 # D1-資料介紹與評估資料
-## 目錄
+**目錄**
 * [筆記](#筆記)
 	* 為什麼這個問題重要?
 	* 資料從何而來?
@@ -10,8 +10,8 @@
 
 ## 筆記
 ### 為什麼這個問題重要?
-#### 該項目研究的原因
-##### EX:好玩=>預測生存(吃雞)遊戲誰可以活得久
+> 該項目研究的原因
+> EX:好玩=>預測生存(吃雞)遊戲誰可以活得久
 ##### EX:企業的核⼼問題=>用戶廣告投放
 ##### EX:公眾利利益/影響政策⽅方向=>[停車方針](https://www.kaggle.com/new-york-city/nyc-parking-tickets/home)
 ##### EX:對世界很有貢獻=>[本次作業DATA](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
