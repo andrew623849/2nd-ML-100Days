@@ -33,7 +33,7 @@ Q2:資料從何而來 (tips: 譬如提供者是誰、以什麼方式蒐集)
 貢獻機構: 加州大學聖地亞哥分校  
 資料來源: [用於分類的標記光學相干斷層掃描（OCT）和胸部X射線圖像](https://data.mendeley.com/datasets/rscbjbr9sj/2)  
 Q3:蒐集而來的資料型態為何    
-該資料為非結構化資料(jpeg)  
+該資料為非結構化資料(jpeg)   
 ![](https://i.imgur.com/jZqpV51.png)  
 Q4:這組資料想解決的問題如何評估  
 病人胸腔狀況:正確率
