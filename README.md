@@ -5,3 +5,4 @@
 ## [D3-2 :如何讀取其他資料?](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D3/Day_003-2_HW.ipynb)
 ## [D4 EDA: 欄位的資料類型介紹及處理](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D4/Day_004_HW.ipynb)
 ## [D5 EDA資料分佈](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D5/Day_005_HW.ipynb)
+## [D6 EDA: Outlier 及處理](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D6/Day_006_HW.ipynb)
