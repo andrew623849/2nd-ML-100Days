@@ -7,3 +7,4 @@
 ## [D5 EDA資料分佈](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D5/Day_005_HW.ipynb)
 ## [D6 EDA: Outlier 及處理](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D6/Day_006_HW.ipynb)
 ## [D7 常用的數值取代：中位數與分位數連續數值標準化](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D7/Day_007_HW.ipynb)
+## [D8 DataFrame operationData frame merge/常用的 DataFrame 操作](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D8/Day_008_HW.ipynb)
