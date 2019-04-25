@@ -9,3 +9,4 @@
 ## [D7 常用的數值取代：中位數與分位數連續數值標準化](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D7/Day_007_HW.ipynb)
 ## [D8 DataFrame operationData frame merge/常用的 DataFrame 操作](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D8/Day_008_HW.ipynb)
 ## [D9 EDA: correlation/相關係數簡介](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D9/Day_009_HW.ipynb)
+## [D10 EDA from Correlation](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D10/Day_010_HW.ipynb)
