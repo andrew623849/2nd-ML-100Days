@@ -12,3 +12,4 @@
 ## [D10 EDA from Correlation](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D10/Day_010_HW.ipynb)
 ## [D11：EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D11/Day_011_HW.ipynb)
 ## [D12：EDA: 把連續型變數離散化](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D12/Day_012_HW.ipynb)
+## [D13：程式實作 把連續型變數離散化](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D13/Day_013_HW.ipynb)
