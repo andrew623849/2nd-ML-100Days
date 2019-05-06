@@ -15,3 +15,6 @@
 ## [D13：程式實作 把連續型變數離散化](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D13/Day_013_HW.ipynb)
 ## [D14：Subplots](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D14/Day_014_HW.ipynb)
 ## [D15：Heatmap & Grid-plot](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D15/Day_015_HW.ipynb)
+## [D16：模型初體驗 Logistic Regression](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D16/Day_016_HW.ipynb)
+## [D17：特徵工程簡介](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D17/Day_017_HW.ipynb)
+## [D18：特徵類型](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D18/Day_018_HW.ipynb)
