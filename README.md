@@ -20,3 +20,4 @@
 ## [D18：特徵類型](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D18/Day_018_HW.ipynb)
 ## [D19：數值型特徵 - 補缺失值與標準化](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D19/Day_019_HW.ipynb)
 ## [D20：數值型特徵 - 去除離群值](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D20/Day_020_HW.ipynb)
+## [D21：數值型特徵 - 去除偏態](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D21/Day_021_HW.ipynb)
