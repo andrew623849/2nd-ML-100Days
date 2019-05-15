@@ -24,3 +24,5 @@
 ### [D21：數值型特徵 - 去除偏態](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D21/Day_021_HW.ipynb)
 ### [D22：類別型特徵 - 基礎處理](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D22/Day_022_HW.ipynb)
 ### [D23：類別型特徵 - 均值編碼](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D23/Day_023_HW.ipynb)
+### [D24：類別型特徵 - 其他進階處理](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D24/Day_024_HW.ipynb)
+### [D25：時間型特徵](https://github.com/andrew623849/2nd-ML-100Days/blob/master/D25/Day_025_HW.ipynb)
